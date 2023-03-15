@@ -5,8 +5,8 @@ app = Flask(__name__)
 
 # list of cat images
 images = [
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr06/15/9/anigif_enhanced-buzz-25158-1381844793-0.gif",
-    "http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr03/15/10/anigif_enhanced-buzz-11980-1381846269-1.gif"
+    "https://pub-8b49af329fae499aa563997f5d4068a4.r2.dev/generations/ff5527c9-7a49-4d92-a00c-14610fce6e9c-0.png",
+    "https://pub-8b49af329fae499aa563997f5d4068a4.r2.dev/generations/8323a8df-866a-40c5-b50c-81d8e7cf1a18-0.png"
 ]
 
 @app.route('/')
